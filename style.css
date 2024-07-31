@@ -1,0 +1,56 @@
+body {
+	
+}
+
+#banner {
+	width: 90%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+.titulo-principal {
+	
+}
+
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+	
+}
+
+
+ul{
+	display: inline-block;
+	vertical-align:top;
+	width: 20%;
+	margin: right 15%;
+}
+
+.petshop{
+	width: 60%;
+}
+	
+<h1>barbearia alura</h1>
